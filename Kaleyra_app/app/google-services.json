@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842789182066",
+    "project_id": "kaleyra-app",
+    "storage_bucket": "kaleyra-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842789182066:android:460e3b2255e92f32a740eb",
+        "android_client_info": {
+          "package_name": "com.example.kaleyra_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842789182066-mmc149kr7iqhg6t9g3mr1a43daou0s3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW1ef1Iz7iGGboWMYcerYC69Kwro5_BzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842789182066-mmc149kr7iqhg6t9g3mr1a43daou0s3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
